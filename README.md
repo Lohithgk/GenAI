@@ -11,7 +11,6 @@ This repository includes:
 - Code generation assistants and auto-documentation tools
 - Integration with Python libraries and APIs
 
----
 
 ## Tech Stack
 
