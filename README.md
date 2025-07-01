@@ -19,3 +19,6 @@ Specifically, this script takes a country's name and asks the AI to identify its
 - Python 3.x
 - Ollama Python SDK
 - LLaMA 3.2 language model
+
+## Project Code
+(www.google.com)
