@@ -1,4 +1,4 @@
-## AI Capital Finder using Ollama API
+# AI Capital Finder using Ollama API
 
 This is a beginner-friendly AI project that uses the Ollama API with the LLaMA 3.2 model to generate answers to country-related questions. 
 Specifically, this script takes a country's name and asks the AI to identify its capital city.
