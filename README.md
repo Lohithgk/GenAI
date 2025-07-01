@@ -21,4 +21,4 @@ Specifically, this script takes a country's name and asks the AI to identify its
 - LLaMA 3.2 language model
 
 ## Project Code
-(www.google.com)
+(https://github.com/Lohithgk/GenAI/blob/main/firstAI.py)
