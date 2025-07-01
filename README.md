@@ -3,7 +3,6 @@ Welcome to the **GenAI** repository – a collection of experiments, projects, a
 ## Overview
 
 This repository includes:
-
 - Prompt engineering experiments for LLMs (e.g. Gemma3, LLaMA 3.2)
 - Text generation workflows and chatbot prototypes
 - Code generation assistants and auto-documentation tools
