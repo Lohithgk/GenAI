@@ -1,0 +1,16 @@
+Here is the processed text in a bulleted format, categorized by car make:
+
+• **Toyota**
+  • Camry (2023), $25,900
+  • RAV4 (2023), $27,970
+  • Corolla (2023), $21,300
+
+• **Honda**
+  • Civic (2023), $23,000
+  • CR-V (2023), $28,700
+  • Accord (2023), $27,500
+
+• **Ford**
+  • F-150 (2023), $33,900
+  • Explorer (2023), $36,000
+  • Mustang (2023), $27,900
