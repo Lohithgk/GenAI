@@ -1,0 +1,50 @@
+Car Make: Toyota
+Model: Camry
+Year: 2023
+Type: Sedan
+Engine: 2.5L 4-Cylinder
+Price: $25,900
+Model: RAV4
+Year: 2023
+Type: SUV
+Engine: 2.5L 4-Cylinder
+Price: $27,970
+Model: Corolla
+Year: 2023
+Type: Sedan
+Engine: 2.0L 4-Cylinder
+Price: $21,300
+
+Car Make: Honda
+Model: Civic
+Year: 2023
+Type: Sedan
+Engine: 2.0L 4-Cylinder
+Price: $23,000
+Model: CR-V
+Year: 2023
+Type: SUV
+Engine: 1.5L Turbo 4-Cylinder
+Price: $28,700
+Model: Accord
+Year: 2023
+Type: Sedan
+Engine: 1.5L Turbo 4-Cylinder
+Price: $27,500
+
+Car Make: Ford
+Model: F-150
+Year: 2023
+Type: Pickup Truck
+Engine: 3.3L V6
+Price: $33,900
+Model: Explorer
+Year: 2023
+Type: SUV
+Engine: 2.3L Turbo 4-Cylinder
+Price: $36,000
+Model: Mustang
+Year: 2023
+Type: Coupe
+Engine: 2.3L Turbo 4-Cylinder
+Price: $27,900
