@@ -7,3 +7,8 @@ Single-prompt interaction: Stateless design for simplicity and clarity.
 LLaMA 3.2: Uses Meta’s LLaMA 3.2 model for high-quality language generation.
 Agno Framework: Built on Agno, a Python framework for modular multi-agent systems.
 Ollama Integration: Seamless local model execution using Ollama.
+
+## Requirements
+Python 3.8+
+Ollama with LLaMA 3.2 model
+Agno framework
